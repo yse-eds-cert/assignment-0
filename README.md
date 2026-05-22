@@ -1,6 +1,6 @@
 # Assignment 0: Introduction to Google Colab & GitHub
 
-Welcome to ENV 617! This assignment will help you get set up with Google Colaboratory and GitHub, the two tools we'll use throughout the course.
+Welcome to the YSE Data Science Certificate Program! This assignment will help you get set up with Google Colaboratory and GitHub, the two tools we'll use throughout the program.
 
 ## Open the Assignment Notebook
 
@@ -23,4 +23,4 @@ Click the button below to open the assignment notebook in Google Colab:
 - `README.md` — this file, with instructions
 - `assignment_0.ipynb` — the assignment notebook (R kernel)
 
-Please don't hesitate to reach out to the instructors or TAs if you get stuck — this setup process can be tricky the first time!
+Please don't hesitate to reach out to our Lead Mentor (Andie Creel) or your assigned online mentor if you get stuck — this setup process can be tricky the first time!
